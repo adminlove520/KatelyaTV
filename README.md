@@ -196,6 +196,7 @@ PASSWORD=your_password
 # 功能开关
 NEXT_PUBLIC_ENABLE_REGISTER=true
 ```
+- 重新部署
 
 5. **重新部署** → Vercel Dashboard → Redeploy
 
